@@ -1,0 +1,28 @@
+1 - Criação de aplicativos
+
+https://pt-br.reactjs.org/docs/create-a-new-react-app.html
+https://create-react-app.dev/docs/using-https-in-development/
+
+2 - States
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_interactivity_events_state
+
+3 - Router
+https://www.geeksforgeeks.org/reactjs-router/
+
+npm install –save react-router-dom
+
+4 - Material Design
+
+https://www.material.io/components/app-bars-top/web#using-the-top-app-bar
+
+https://javascript.works-hub.com/learn/how-to-create-a-responsive-navbar-using-material-ui-and-react-router-f9a01
+
+npm install @material-ui/core
+npm install @material-ui/icons
+
+
+
+
+
+
